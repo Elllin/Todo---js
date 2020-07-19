@@ -4,6 +4,23 @@
 
 ![데모이미지](./image/todo.gif)
 
+## 개요
+- 기간 : 2020-04-06 ~ 2020-04-17
+- 내용 : autoComplete, carousel
+- 인원 : Back-end(2인), Front-end(1인), IOS(1인)
+- 담당 : Front-end (100%)
+
+## 사용 도구 및 기술
+Front-end
+ - HTML
+ - CSS 
+ - Javascript (oop, 상속, event deleagtion, map)
+
+## 기능                                                        
+- 드래그 앤 드롭
+- 모달창
+- 로그인 (token 사용)
+
 
 ## issue관리
 
